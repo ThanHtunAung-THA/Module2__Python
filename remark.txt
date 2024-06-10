@@ -1,0 +1,7 @@
+backend >>> 
+py --> django
+php--> laravel
+js --> node.js
+
+frontend >>>
+js --> react / vue
